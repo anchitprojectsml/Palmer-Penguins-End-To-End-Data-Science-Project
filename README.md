@@ -39,6 +39,6 @@ This repository contains a 5-week structured data science internship project tha
 ---
 
 ## 👤 Author
-**Your Name**
+Anchit Shrivastava
 * Data Science Intern
-* GitHub Link: [Your GitHub Profile URL]
+* GitHub Link: www.github.com/anchitprojectsml
